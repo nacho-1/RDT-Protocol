@@ -2,3 +2,4 @@ src/lib/__pycache__/
 
 # Misc
 .directory
+*/.DS_Store
